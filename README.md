@@ -1,7 +1,7 @@
 # The-apex-tower
 
 
-[![Author](https://img.shields.io/badge/Author-ianramzy-brightgreen.svg)]
+[![Author](https://img.shields.io/badge/Author-85599-brightgreen.svg)]
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen.svg)]
 ![GitHub repo size](https://img.shields.io/github/repo-size/ianramzy/apex-tower-defense.svg)
